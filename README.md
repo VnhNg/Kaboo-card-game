@@ -85,8 +85,5 @@ At the end of the game, points are totaled:
 - The player with the **fewest points** wins.
 - In case of a tie, players share the victory.
 
----
-
-Enjoy playing Kaboo and may the best strategist win!
 
 
