@@ -1,4 +1,3 @@
-# Kaboo-card-game
 # Kaboo Board Game
 
 ## Materials and Setup
